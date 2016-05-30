@@ -33,7 +33,7 @@ Errata
 
 ### I. Introdução
 
-1. Introdução
+Introdução
 
 Como criar um sistema LFS
 
