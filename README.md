@@ -1,3 +1,5 @@
 # LFS-Traducao-Brasil
 
-Tradução do Projeto Linux From Scratch para a Língua Portuguesa
+Criado por Gerard Beekmans
+Editador por Bruce Dubbs
+Traduzido por Logicus Tecnologia e Satus Tecnologia
