@@ -7,6 +7,8 @@ Editador por Bruce Dubbs
 
 Traduzido por Logicus Tecnologia e Satus Tecnologia
 
+Copyright © 1999-2016 Gerard Beekmans
+
 
 ## Tabela de conteúdos
 
