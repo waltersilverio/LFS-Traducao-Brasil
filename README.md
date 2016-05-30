@@ -10,7 +10,7 @@ Traduzido por Logicus Tecnologia e Satus Tecnologia
 
 ## Tabela de conteúdos
 
-Prefácio
+### Prefácio
 
 Público
 
@@ -29,3 +29,18 @@ Tipografia
 Estrutura
 
 Errata
+
+
+### I. Introdução
+
+1. Introdução
+
+Como criar um sistema LFS
+
+O que há de novo nesta versão
+
+Changelog
+
+Recursos
+
+Ajuda
